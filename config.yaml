@@ -45,6 +45,8 @@ params:
           url: "https://twitter.com/Milchdealer"
         - name: github
           url: "https://github.com/Milchdealer"
+        - name: mastodon
+          url: "https://floss.social/web/accounts/205038"
 
     # assets:
     #     favicon: "<link / absolute url>"
