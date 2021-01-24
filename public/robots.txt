@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://teraku.de/sitemap.xml

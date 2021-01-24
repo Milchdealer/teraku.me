@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>openring on Teraku&#39;s blog</title>
+    <link>https://teraku.de/tags/openring/</link>
+    <description>Recent content in openring on Teraku&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 30 Aug 2020 11:36:41 +0200</lastBuildDate><atom:link href="https://teraku.de/tags/openring/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Connecting my RSS reader to my blog&#39;s webring</title>
+      <link>https://teraku.de/posts/blog-setup-deployment/</link>
+      <pubDate>Sun, 30 Aug 2020 11:36:41 +0200</pubDate>
+      
+      <guid>https://teraku.de/posts/blog-setup-deployment/</guid>
+      <description>Outline Since I am using openring, I will detail how I automatically update the posts in the webring for this blog with the feeds from the blogs I follow.
+My RSS feed / news-flash Finding the stored feed data I&amp;rsquo;m using the RSS reader news-flash. So the first order of business was finding out where where and how my feed was stored. Since news-flash is FOSS, a quick into the sourcecode revealed the following.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://teraku.de/tags/blog/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/blog/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/data/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/data/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/posts/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/posts/house-prices-2020/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/</loc>
+    <lastmod>2020-09-02T17:46:21+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/posts/blog-setup-deployment/</loc>
+    <lastmod>2020-08-30T11:36:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/openring/</loc>
+    <lastmod>2020-08-30T11:36:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/rss/</loc>
+    <lastmod>2020-08-30T11:36:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/webring/</loc>
+    <lastmod>2020-08-30T11:36:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/flowty/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/flowty/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/graph/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/posts/workflow-graph-implementation/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/rust/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/rust/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/tags/workflow/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teraku.de/categories/workflow/</loc>
+    <lastmod>2020-07-19T09:06:08+02:00</lastmod>
+  </url>
+  
+</urlset>

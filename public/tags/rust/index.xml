@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rust on Teraku&#39;s blog</title>
+    <link>https://teraku.de/tags/rust/</link>
+    <description>Recent content in rust on Teraku&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 19 Jul 2020 09:06:08 +0200</lastBuildDate><atom:link href="https://teraku.de/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementing a workflow graph</title>
+      <link>https://teraku.de/posts/workflow-graph-implementation/</link>
+      <pubDate>Sun, 19 Jul 2020 09:06:08 +0200</pubDate>
+      
+      <guid>https://teraku.de/posts/workflow-graph-implementation/</guid>
+      <description>Goal Implement a struct which holds the workflow graph and yields the next values in line for execution.
+Workflow Graph When writing a workflow management engine, one has to decide on the data structure of the workflow. I decided to go for the most common one: A directed acyclic graph, in short DAG. I thought about using a more open type, i. e. a cyclic graph, but that has really weird implications for a retry system and output handling.</description>
+    </item>
+    
+  </channel>
+</rss>

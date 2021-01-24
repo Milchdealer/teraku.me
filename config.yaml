@@ -1,0 +1,103 @@
+baseURL: "https://teraku.de"
+title: Teraku's blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Teraku's blog
+    description: "ExampleSite description"
+    author: Teraku
+
+    defaultTheme: auto # dark, light
+    disableThemeToggle: false
+
+    ShowReadingTime: false
+    ShowShareButtons: false
+    disableSpecial1stPost: false
+    comments: false
+    hidemeta: false
+    showtoc: false
+    tocopen: false
+
+    label:
+        text: "Home"
+        icon: /apple-touch-icon.png
+        iconHeight: 35
+
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: Welcome to my blog
+
+    socialIcons:
+        - name: twitter
+          url: "https://twitter.com/Milchdealer"
+        - name: github
+          url: "https://github.com/Milchdealer"
+
+    # assets:
+    #     favicon: "<link / absolute url>"
+    #     favicon16x16:  "<link / absolute url>"
+    #     favicon32x32:  "<link / absolute url>"
+    #     apple_touch_icon:  "<link / absolute url>"
+    #     safari_pinned_tab:  "<link / absolute url>"
+
+
+    cover:
+        hidden: true # hide everywhere but not in structured data
+        hiddenInList: true # hide on list pages and home
+        hiddenInSingle: true # hide on single page
+
+    # for search
+    # https://fusejs.io/api/options.html
+    fuseOpts:
+        isCaseSensitive: false
+        shouldSort: true
+        location: 0
+        distance: 1000
+        threshold: 0.4
+        minMatchCharLength: 0
+        keys: ["title", "permalink", "summary", "content"]
+menu:
+    main:
+        - identifier: categories
+          name: categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: tags
+          url: /tags/
+          weight: 20
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        style: rainbow_dash
+        hl_Lines: ""
+        lineNoStart: 1
+        hl_Lines: ""
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        noClasses: true
+        tabWidth: 4
+        comments: false
+        hidemeta: false
+        showtoc: false
+        tocopen: false
