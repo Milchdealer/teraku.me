@@ -1,3 +1,10 @@
++++
+title = "Intention in languages"
+date = 2021-02-19T20:18:23+01:00
+draft = false
+slug = "intention-in-language"
+tags = ["blog", "language"]
++++
 Sometimes I think about what a bliss computers are. I don't mean in a way of how they have improved our quality of life (which they did) and I'm not trying to disregard of the fact that they have had and will continue to have lots of implications on our social interactions and sociatal perception. What I mean is the fact that we now have these machines which obey exactly the way as we tell them to.
 
 In my case this insight is mainly derived from the fact that I work with computers as a developer. I take for granted that commands are executed the way I tell the computer, in order I tell it to (or sometimes out of order, but in an intentional way).
